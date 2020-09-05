@@ -1,1 +1,1 @@
-# ManimSil This is repository for codes that ascossiate with Silaeder's Manim project
+# ManimSil This is repository for codes that ascossiate with Silaeder's Manim project 
